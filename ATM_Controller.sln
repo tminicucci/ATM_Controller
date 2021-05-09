@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ATM_Controller", "ATM_Controller\ATM_Controller.pyproj", "{DAC403F9-9936-4E8B-A5D4-1D9782E83E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAC403F9-9936-4E8B-A5D4-1D9782E83E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC403F9-9936-4E8B-A5D4-1D9782E83E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {503FC7A8-4C80-440D-9370-5840992EA7D9}
+	EndGlobalSection
+EndGlobal
