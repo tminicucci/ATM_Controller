@@ -1,2 +1,4 @@
 # ATM_Controller
 # This is a Visual Studio 2019 project and can be cloned by clicking "Code" and then selecting "Open with Visual Studio". Visual Stuido will then give you the option to clone the project. Alternatively, you may copy the .py file provided. 
+
+#The ATM_Controller will require a card number followed by a pin both of which will be accepted by default, but this may be integrated to the ATM scanner and numpad inputs. You may type "View Balance", "Withdrawal", or "Deposit" and proceed with another transaction by typing "Yes". If you don't proceed the session is cancelled and will return to the main menu prompting the next customer to "Insert Card". Depositing funds will wait to scan a bill and terminate after the scan if you are done by typing "Yes". Many of these features would alternatively be handled by the UI and integration with a scanner. 
